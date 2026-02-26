@@ -1,65 +1,68 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pingara/.github/main/profile/pingara-icon.png" alt="Pingara Icon" width="150"/>
-  <h1>BitSleuth</h1>
-  <p><strong>AI-Powered Bitcoin Analysis & Privacy Tools</strong></p>
+  <h1>Pingara</h1>
+  <p><strong>The Affordable Monitoring Solution</strong></p>
   <p>
-    <a href="https://www.bitsleuth.ai">Website</a> |
-    <a href="https://app.bitsleuth.ai">Wallet Analyzer</a> |
-    <a href="https://www.bitsleuth.ai/wallet">Privacy Wallet</a> |
-    <a href="https://nostr.com/npub1t78qlukpy32evcmwlp82mvcwezwv6mky0uhk4s58vdaq09q8245s44mhep">Nostr</a>
+    <a href="https://www.pingara.io">Website</a> |
+    <a href="https://www.pingara.io/signup">Sign Up</a> |
+    <a href="https://www.pingara.io/login">Login</a>
   </p>
 </div>
 
 ---
 
-Welcome to **BitSleuth** - your AI assistant for Bitcoin wallet analysis and secure, privacy-first wallet management.
+Welcome to **Pingara** - reliable uptime and performance monitoring without enterprise pricing. Monitor your websites and services from multiple regions, get instant alerts, and keep your customers informed.
 
-## 🚀 Explore our suite of tools:
+## 🚀 What We Offer
 
--   **[Landing Page & Info](https://www.bitsleuth.ai)** - Learn what we’re building and why
--   **[Wallet Analyzer App](https://app.bitsleuth.ai)** - AI-powered insights, transaction visualizations, OPSEC risk detection
--   **[Private Wallet](https://www.bitsleuth.ai/wallet)** - Client-side encrypted, privacy-focused, intuitive Bitcoin wallet
+-   **[URL Monitoring](https://www.pingara.io)** - Continuously monitor HTTP/HTTPS endpoints from multiple geographic regions with configurable check intervals
+-   **[Alerting System](https://www.pingara.io)** - Instant notifications via Email, Slack, and Webhooks when downtime or degradation is detected
+-   **[Status Pages](https://www.pingara.io)** - Branded public status pages displaying service health, historical uptime, and ongoing incidents
 
 ---
 
-## 🎯 What We Offer
+## 🎯 Key Features
 
-| **Tool** | **Purpose** | **Key Features** |
+| **Feature** | **Purpose** | **Highlights** |
 | :---: | :---: | :---: |
-| **Wallet Analyzer**| Investigate any BTC address | • Visualize transaction flows<br>• AI-driven wallet explanations (“Where did these coins come from?”, “Potential mixing?”)<br>• OPSEC risk alerts |
-| **Privacy Wallet** | Secure, non-custodial Bitcoin storage | • Client-side encryption<br>• Advanced privacy features to reduce on-chain exposure and address reuse |
+| **URL Monitoring** | Monitor HTTP/HTTPS endpoints | • Check intervals from 30s to 60m<br>• Keyword and status code validation<br>• SSL certificate expiry tracking |
+| **Multi-Region with Quorum** | Reduce false positives | • US, EU, and APAC regions<br>• Consecutive failure requirements<br>• Quorum-based status decisions |
+| **Apdex Scoring** | Measure user satisfaction | • Configurable T thresholds<br>• Hourly and daily rollups<br>• Included in incident summaries |
+| **AI Root Cause Hints** | Speed up investigation | • DNS, TCP, TLS analysis<br>• Timing breakdown insights<br>• Advisory suggestions |
+| **Status Pages** | Keep customers informed | • Custom branding and theme colors<br>• Historical uptime display<br>• SEO-optimized for public visibility |
 
 ---
 
 ## ✨ Our Mission
 
-Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim transparency and security - whether you're visualizing fund movement or safeguarding your privacy on-chain.
+**Pingara** provides comprehensive monitoring tools designed for startups, bloggers, MSPs, DevOps teams, and enterprises. We believe reliable monitoring should be accessible to everyone - not just those with enterprise budgets.
 
 ---
 
-## 🤔 Why BitSleuth?
+## 🤔 Why Pingara?
 
--   **🤖 AI-Enhanced Clarity:** Turn blockchain complexity into plain-language insights with AI-powered wallet explanations.
--   **📊 Visual Intelligence:** Flow maps, transaction graphs, and summary dashboards help spot patterns and anomalies instantly.
--   **🛡️ Privacy First:** Wallet built to minimize traceability - designed for users who value anonymity and security.
--   **💬 Feedback-Friendly:** Still evolving - your feedback helps shape the future. Connect via Nostr or submit suggestions through the app.
+-   **💰 Affordable:** Start free with 5 monitors, scale as you grow with transparent pricing.
+-   **🌍 Multi-Region:** Monitor from US, EU, and APAC regions with intelligent quorum rules to reduce false positives.
+-   **🤖 AI-Powered Insights:** Get AI-driven root cause suggestions based on collected metrics to speed up investigation.
+-   **📊 Dashboard & Reporting:** Comprehensive dashboards with uptime percentages, latency charts (p50/p95/p99), and incident timelines.
+-   **📢 Status Pages:** Create branded public status pages for transparency with your customers.
 
 ---
 
 ## 🔗 Quick Links
 
--   **Live Tools**
-    -   [Wallet Analyzer → app.bitsleuth.ai](https://app.bitsleuth.ai)
-    -   [Privacy Wallet → www.bitsleuth.ai/wallet](https://www.bitsleuth.ai/wallet)
--   **Learn More**: [Landing page → bitsleuth.ai](https://www.bitsleuth.ai)
+-   **Get Started**
+    -   [Sign Up → www.pingara.io/signup](https://www.pingara.io/signup)
+    -   [Login → www.pingara.io/login](https://www.pingara.io/login)
+-   **Learn More**: [Website → www.pingara.io](https://www.pingara.io)
 -   **Source Code**: Explore our repositories below.
 
 ---
 
 ## 📬 Contact & Community
 
--   Found a bug? Report it through [GitHub Issues](https://github.com/BitSleuthAI/.github/issues).
--   Have feedback or feature ideas? Contribute through [GitHub Discussions](https://github.com/BitSleuthAI/.github/discussions)!
+-   Found a bug? Report it through [GitHub Issues](https://github.com/Pingara/.github/issues).
+-   Have feedback or feature ideas? Contribute through [GitHub Discussions](https://github.com/Pingara/.github/discussions)!
 
 Both can be found in the .github Public repo.
 
@@ -67,13 +70,7 @@ Both can be found in the .github Public repo.
 
 <div align="center">
 
-**Happy Sleuthing!**  
-The BitSleuth Team
+**Happy Monitoring!**  
+The Pingara Team
 
 </div>
-
-
-
-
-
-
