@@ -17,9 +17,6 @@ Welcome to the Pingara codebase! This guide is for AI coding agents to maximize 
   - Notification channels: Email, Slack, Webhooks.
 
 ## Developer Workflows
-- **Bug Reports & Feature Requests:**
-  - Use GitHub Issues for bugs: https://github.com/Pingara/.github/issues
-  - Use GitHub Discussions for feedback: https://github.com/Pingara/.github/discussions
 - **Documentation:**
   - Main project info is in `profile/README.md`.
   - Product website: [www.pingara.io](https://www.pingara.io)
@@ -53,3 +50,4 @@ For questions or unclear conventions, review `profile/README.md` or ask for clar
 ---
 
 *Last updated: February 2026*
+
