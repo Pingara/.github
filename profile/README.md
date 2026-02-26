@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pingara/.github/main/profile/pingara-icon.png" alt="BitSleuth Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/Pingara/.github/main/profile/pingara-icon.png" alt="Pingara Icon" width="150"/>
   <h1>BitSleuth</h1>
   <p><strong>AI-Powered Bitcoin Analysis & Privacy Tools</strong></p>
   <p>
@@ -71,6 +71,7 @@ Both can be found in the .github Public repo.
 The BitSleuth Team
 
 </div>
+
 
 
 
