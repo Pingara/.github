@@ -59,15 +59,6 @@ Welcome to **Pingara** - reliable uptime and performance monitoring without ente
 
 ---
 
-## 📬 Contact & Community
-
--   Found a bug? Report it through [GitHub Issues](https://github.com/Pingara/.github/issues).
--   Have feedback or feature ideas? Contribute through [GitHub Discussions](https://github.com/Pingara/.github/discussions)!
-
-Both can be found in the .github Public repo.
-
----
-
 <div align="center">
 
 **Happy Monitoring!**  
