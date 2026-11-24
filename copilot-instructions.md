@@ -10,10 +10,10 @@ Welcome to the Pingara codebase! This guide is for AI coding agents to maximize 
   - **Dashboard & Reporting:** Comprehensive dashboards with uptime percentages, latency charts (p50/p95/p99), and incident timelines.
   - **Status Pages:** Branded public status pages displaying service health, historical uptime, and ongoing incidents.
   - **Multi-Region with Quorum:** Monitors from US, EU, and APAC regions with intelligent quorum rules to reduce false positives.
-  - **AI Root Cause Hints:** AI-driven suggestions for possible root causes based on collected metrics.
+  - **AI-written incident summaries:** Incident summaries written from collected metrics.
 - **External Integrations:**
   - Multi-region monitoring infrastructure (US, EU, APAC).
-  - AI models for root cause analysis and advisory suggestions.
+  - AI models that write incident summaries.
   - Notification channels: Email, Slack, Webhooks.
 
 ## Developer Workflows
@@ -25,7 +25,7 @@ Welcome to the Pingara codebase! This guide is for AI coding agents to maximize 
 - **Reliability First:** Monitoring checks must be accurate and minimize false positives using quorum-based decisions.
 - **Multi-Region:** All monitoring should support checks from multiple geographic regions.
 - **Affordable & Accessible:** Features should be designed to work within the free tier where possible, scaling for paid plans.
-- **AI Insights:** Use AI to generate clear, actionable root cause suggestions for users.
+- **AI Insights:** Use AI to write clear, actionable incident summaries for users.
 - **Status Page Transparency:** Public status pages should be SEO-optimized and customer-friendly.
 
 ## Patterns & Examples
