@@ -28,7 +28,7 @@ Welcome to **Pingara** - reliable uptime and performance monitoring without ente
 | **URL Monitoring** | Monitor HTTP/HTTPS endpoints | • Check intervals from 30s to 60m<br>• Keyword and status code validation<br>• SSL certificate expiry tracking |
 | **Multi-Region with Quorum** | Reduce false positives | • US, EU, and APAC regions<br>• Consecutive failure requirements<br>• Quorum-based status decisions |
 | **Apdex Scoring** | Measure user satisfaction | • Configurable T thresholds<br>• Hourly and daily rollups<br>• Included in incident summaries |
-| **AI Root Cause Hints** | Speed up investigation | • DNS, TCP, TLS analysis<br>• Timing breakdown insights<br>• Advisory suggestions |
+| **AI-written incident summaries** | Speed up investigation | • DNS, TCP, TLS analysis<br>• Timing breakdown insights<br>• Advisory suggestions |
 | **Status Pages** | Keep customers informed | • Custom branding and theme colors<br>• Historical uptime display<br>• SEO-optimized for public visibility |
 
 ---
@@ -43,7 +43,7 @@ Welcome to **Pingara** - reliable uptime and performance monitoring without ente
 
 -   **💰 Affordable:** Start free with 5 monitors, scale as you grow with transparent pricing.
 -   **🌍 Multi-Region:** Monitor from US, EU, and APAC regions with intelligent quorum rules to reduce false positives.
--   **🤖 AI-Powered Insights:** Get AI-driven root cause suggestions based on collected metrics to speed up investigation.
+-   **🤖 AI-Powered Insights:** Get AI-written incident summaries based on collected metrics to speed up investigation.
 -   **📊 Dashboard & Reporting:** Comprehensive dashboards with uptime percentages, latency charts (p50/p95/p99), and incident timelines.
 -   **📢 Status Pages:** Create branded public status pages for transparency with your customers.
 
