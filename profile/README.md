@@ -43,7 +43,7 @@ Welcome to **Pingara** - reliable uptime and performance monitoring without ente
 
 -   **💰 Affordable:** Start free with 5 monitors, scale as you grow with transparent pricing.
 -   **🌍 Multi-Region:** Monitor from US, EU, and APAC regions with intelligent quorum rules to reduce false positives.
--   **🤖 AI-Powered Insights:** Get AI-driven root cause suggestions based on collected metrics to speed up investigation.
+-   **🤖 AI-Powered Insights:** Get AI-written incident summaries based on collected metrics to speed up investigation.
 -   **📊 Dashboard & Reporting:** Comprehensive dashboards with uptime percentages, latency charts (p50/p95/p99), and incident timelines.
 -   **📢 Status Pages:** Create branded public status pages for transparency with your customers.
 
